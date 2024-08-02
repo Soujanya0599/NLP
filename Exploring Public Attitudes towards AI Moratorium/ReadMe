@@ -1,1 +1,5 @@
 Exploring Public Attitudes towards AI Moratorium: A Topic Modeling and Sentiment Analysis Study
+
+Data : Contains all the collected data from Reddit.
+Code : Contains SMM_supplemental_paper3.ipynb
+used to collect data from Reddit and to perform EMPATH analysis and topic modeling on the data.
